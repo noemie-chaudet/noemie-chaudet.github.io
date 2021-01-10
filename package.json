@@ -1,10 +1,10 @@
 {
   "name": "noemieland.github.io",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "lite-server"
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/noemieland/noemieland.github.io#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "axios": ">=0.21.1"
   }
 }
