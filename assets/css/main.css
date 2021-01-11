@@ -89,6 +89,7 @@ section {
 .a-propos img {
   min-height: 570px;
   max-height: 90vh;
+  max-width: 95%;
 }
 
 .contact {
