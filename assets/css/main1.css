@@ -84,6 +84,13 @@ section {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+
+  background-color: #f2d6b3;
+  border-radius: 50%;
+  line-height: 290px;
+  width: 290px;
+  height: 290px;
+  text-align: center;
 }
 
 .a-propos img {
@@ -160,6 +167,9 @@ section {
 @media screen and (max-width: 600px) {
   .a-propos__title {
     font-size: 35px;
+    line-height: 200px;
+    width: 200px;
+    height: 200px;
   }
 
   .a-propos img {
